@@ -24,8 +24,8 @@ Este proyecto analiza las llamadas entrantes y atendidas en un Call Center con m
    ```bash
    ./venv/Scripts/activate
    ```
-3. Una vez termindo desactivar el entorno virtual
+3. Darle a Run All
+4. Una vez termindo de visualizar, desactivar el entorno virtual
    ```bash
    deactivate
    ```
-4. Darle a Run All
